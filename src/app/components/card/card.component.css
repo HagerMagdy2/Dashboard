@@ -1,11 +1,12 @@
 .dashboard-container {
   display: flex;
   gap: 20px;
+  background-color: #F9F5F3;
 }
 
 .card {
   padding: 10px;
-  border-radius: 12px;
+  border-radius: 20px;
   text-align: left;
   width: 200px;
   height: 130px;
@@ -22,9 +23,9 @@ box-shadow: #3D5161;
 }
 
 .total-value { background-color: #F4DBD4;  }
-/* .total-sales { background-color: #f0f8ff; }
-.avg-sales { background-color: #f8f8f8; }
-.transaction-count { background-color: #fffaf0; } */
+.total-sales { background-color: #fff; }
+.avg-sales { background-color: #fff; }
+.transaction-count { background-color: #fff; }
 
 h2 {
 color: #3D5161;  
