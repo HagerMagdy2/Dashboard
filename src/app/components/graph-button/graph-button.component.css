@@ -1,7 +1,7 @@
 .graph-selector {
   display: flex;
   border-radius: 20px;
-  background-color: #f8f5f2;
+  background-color: #fff;
   /* padding: 5px; */
   width: fit-content;
   height: 35px;
@@ -17,6 +17,7 @@
   cursor: pointer;
   outline: none;
   font: normal normal normal 14px/18px Montserrat;
+
 }
 
 .graph-selector button.active {
